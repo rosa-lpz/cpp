@@ -1,2 +1,2 @@
-# C-
+# C++
 Programs in c++
