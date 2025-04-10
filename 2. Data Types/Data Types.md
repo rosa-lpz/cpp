@@ -1,4 +1,22 @@
-### **Basic Data Types**
+# **C++ Basic Data Types**
+
+
+
+The data type specifies the size and type of information the variable will store:
+
+| Data Type | Size         | Description                                                  |
+| --------- | ------------ | ------------------------------------------------------------ |
+| `boolean` | 1 byte       | Stores true or false values                                  |
+| `char`    | 1 byte       | Stores a single character/letter/number, or ASCII values     |
+| `int`     | 2 or 4 bytes | Stores whole numbers, without decimals                       |
+| `float`   | 4 bytes      | Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits |
+| `double`  | 8 bytes      | Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits |
+
+
+
+
+
+## Example 1
 
 **Objective**: A program that declares variables of different data types and prints their sizes and values.
 
@@ -8,7 +26,7 @@
 - `sizeof()` operator to print the size of each variable in bytes.
 - Print the value of each variable
 
-**Code**:
+
 
 ```c++
 #include <iostream>
@@ -36,7 +54,7 @@ int main() {
 
 
 
-### Switch Between Data Types (Float and Integer)
+## Switch Between Data Types (Float and Integer)
 
 **Objective**: Create a program that reads an integer and a floating-point number, then adds them and shows the result with different data types.
 
@@ -46,9 +64,7 @@ int main() {
 - Add the two numbers and cast the result into both `float` and `int`.
 - Print the results of each addition and type casting.
 
-**Code**:
-
-
+## Example 2
 
 ```c++
 #include <iostream>
