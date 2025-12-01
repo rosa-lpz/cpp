@@ -1,5 +1,12 @@
 # C++
 
 
-* [Basic Concepts](https://github.com/rosa-lpz/cpp/blob/main/1.%20Basic%20Concepts/Basic%20Concepts.md)
-* [Data Types](https://github.com/rosa-lpz/cpp/blob/main/2.%20Data%20Types/Data%20Types.md)
+
+## Content
+
+
+* [Basic Concepts](/01_basic_concepts/)
+* [Data Types](/02_data_types/)
+* [Data Structures](/03_data_structures/)
+* [C++ Algorithms](/cpp_algorithms/)
+* [C++ for Math](/cpp_for_math/)
